@@ -18,7 +18,7 @@ public class Adminlogin {
     private final String adminEmail = "umesh@gmail.com"; 
 
     public void initialize(Stage stage) {
-        // Main container with dashboard-style layout
+        
         BorderPane root = new BorderPane();
         root.setStyle("-fx-background-color: #f8fafc;");
         

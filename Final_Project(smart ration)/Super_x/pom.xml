@@ -46,7 +46,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.8</version>
                 <configuration>
-                    <mainClass>com.smartration.Main</mainClass> <!-- 🔁 Replace with your actual main class -->
+                    <mainClass>com.firebase.Main</mainClass> <!-- 🔁 Replace with your actual main class -->
                 </configuration>
                 <executions>
                     <execution>
